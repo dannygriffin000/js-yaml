@@ -33,7 +33,7 @@
   "devDependencies": {
     "ansi": "^0.3.1",
     "benchmark": "^2.1.4",
-    "browserify": "^16.2.2",
+    "browserify": "^17.0.0",
     "codemirror": "^5.13.4",
     "eslint": "^4.1.1",
     "fast-check": "1.1.3",
